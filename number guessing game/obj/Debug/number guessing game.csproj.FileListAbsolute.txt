@@ -1,0 +1,7 @@
+C:\Users\melis\Documents\School\Homework\csharpanddotnet\basic-csharp-and-.net-application\number guessing game\bin\Debug\number guessing game.exe.config
+C:\Users\melis\Documents\School\Homework\csharpanddotnet\basic-csharp-and-.net-application\number guessing game\bin\Debug\number guessing game.exe
+C:\Users\melis\Documents\School\Homework\csharpanddotnet\basic-csharp-and-.net-application\number guessing game\bin\Debug\number guessing game.pdb
+C:\Users\melis\Documents\School\Homework\csharpanddotnet\basic-csharp-and-.net-application\number guessing game\obj\Debug\number guessing game.csprojResolveAssemblyReference.cache
+C:\Users\melis\Documents\School\Homework\csharpanddotnet\basic-csharp-and-.net-application\number guessing game\obj\Debug\number guessing game.csproj.CoreCompileInputs.cache
+C:\Users\melis\Documents\School\Homework\csharpanddotnet\basic-csharp-and-.net-application\number guessing game\obj\Debug\number guessing game.exe
+C:\Users\melis\Documents\School\Homework\csharpanddotnet\basic-csharp-and-.net-application\number guessing game\obj\Debug\number guessing game.pdb
