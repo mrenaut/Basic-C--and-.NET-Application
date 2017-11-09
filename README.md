@@ -6,7 +6,7 @@
 Progam uses random number generation and validation.  User interacts using the Command Line Interface.
 
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.JPG)
 
 
 ### Walkthrough Video
