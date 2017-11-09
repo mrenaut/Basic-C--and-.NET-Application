@@ -8,7 +8,7 @@ Progam uses random number generation and validation.  User interacts using the C
 
 ### Walkthrough Video
 
-!(walkthrough.mp4)
+!(/walkthrough.mp4)
 
 
 
