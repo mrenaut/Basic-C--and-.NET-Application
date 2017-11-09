@@ -1,4 +1,4 @@
-# basic-csharp-and-.net-application
+# Basic C# and .NET Application
 
 
 ## Console application number guessing game written in Visual Studio, with C# and a .NET framework.
@@ -11,7 +11,7 @@ Progam uses random number generation and validation.  User interacts using the C
 
 ### Walkthrough Video
 
-![Walkthrough Video](walkthrough.mp4)
+![Click here to go to walkthrough video](walkthrough.mp4)
 
 
 
